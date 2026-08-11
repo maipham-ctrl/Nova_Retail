@@ -9,4 +9,5 @@ dependencies = [
     "matplotlib>=3.11.1",
     "notebook>=7.6.1",
     "pandas>=3.0.5",
+    "pgeocode>=0.5.0",
 ]
